@@ -1,0 +1,6 @@
+C:\Users\Abdullrahman\Desktop\Programing\C#\Projects In C#\DocumentaryGeneratorClass\bin\Debug\DocumentaryGeneratorClass.dll
+C:\Users\Abdullrahman\Desktop\Programing\C#\Projects In C#\DocumentaryGeneratorClass\bin\Debug\DocumentaryGeneratorClass.pdb
+C:\Users\Abdullrahman\Desktop\Programing\C#\Projects In C#\DocumentaryGeneratorClass\obj\Debug\DocumentaryGeneratorClass.csproj.AssemblyReference.cache
+C:\Users\Abdullrahman\Desktop\Programing\C#\Projects In C#\DocumentaryGeneratorClass\obj\Debug\DocumentaryGeneratorClass.csproj.CoreCompileInputs.cache
+C:\Users\Abdullrahman\Desktop\Programing\C#\Projects In C#\DocumentaryGeneratorClass\obj\Debug\DocumentaryGeneratorClass.dll
+C:\Users\Abdullrahman\Desktop\Programing\C#\Projects In C#\DocumentaryGeneratorClass\obj\Debug\DocumentaryGeneratorClass.pdb
