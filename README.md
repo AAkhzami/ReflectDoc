@@ -67,6 +67,8 @@ Smart Statistics: Counts for methods, properties, and fields.
 - **Method Details**: Comprehensive lists of return types, parameters, and modifiers (e.g., Static, Virtual).
 - **Description Support**: Automatically pulls and displays text written within your DecriptionAttribute.
 
+🖼 Preview
+
 <img src="./screenshots/output1.png" width="600" alt="Preview">
 
 <img src="./screenshots/output2.png" width="600" alt="Preview">
